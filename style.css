@@ -69,10 +69,11 @@ font-size: 20px;
 
 }
 
+
 .bar ul{
     display: flex;
     justify-content: center;
-    gap:20px;
+    gap:50px;
    
     list-style: none;
 }
